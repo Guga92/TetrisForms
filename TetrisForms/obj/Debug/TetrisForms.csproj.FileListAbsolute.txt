@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\TetrisForms\TetrisForms\bin\Debug\TetrisForms.exe.config
+C:\Users\PC\source\repos\TetrisForms\TetrisForms\bin\Debug\TetrisForms.exe
+C:\Users\PC\source\repos\TetrisForms\TetrisForms\bin\Debug\TetrisForms.pdb
+C:\Users\PC\source\repos\TetrisForms\TetrisForms\obj\Debug\TetrisForms.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\TetrisForms\TetrisForms\obj\Debug\TetrisForms.Form1.resources
+C:\Users\PC\source\repos\TetrisForms\TetrisForms\obj\Debug\TetrisForms.Properties.Resources.resources
+C:\Users\PC\source\repos\TetrisForms\TetrisForms\obj\Debug\TetrisForms.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\TetrisForms\TetrisForms\obj\Debug\TetrisForms.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\TetrisForms\TetrisForms\obj\Debug\TetrisForms.exe
+C:\Users\PC\source\repos\TetrisForms\TetrisForms\obj\Debug\TetrisForms.pdb
